@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Diogo</h1>
 <h3 align="center">A passionate junior developer from Portugal</h3>
 
-- 🔭 I’m currently working on **SAM**
+- 🔭 I’m currently working on **SAM - Your Pocket Samaritan**
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me: **diogofrpinto@hotmail.com**
 
