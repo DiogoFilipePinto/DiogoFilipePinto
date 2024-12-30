@@ -67,6 +67,7 @@
 🎾 Playing padel<br>
 ✈️ Traveling to new places<br>
 🎬 Watching movies<br>
+🎵 Listening to music<br>
 </p>
 
 
