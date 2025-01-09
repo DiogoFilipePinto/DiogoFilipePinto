@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **SAM - Your Pocket Samaritan** - https://sam.ssaxel03.com/
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript** and **OutSystems**
 
 - 📫 How to reach me: **diogofrpinto@hotmail.com**
 
